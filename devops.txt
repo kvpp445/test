@@ -1,0 +1,8 @@
+code - version control - Git
+Build - maven, gardle
+test - seleium 
+---------------------------------------= === Plan 
+
+Operate == Ansible, Docker, Kubernetes, Jenkins
+Monitor == Nagios 
+---------------------------------------==== Deploy
